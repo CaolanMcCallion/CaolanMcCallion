@@ -3,6 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Academic Progression Web App](https://github.com/CaolanMcCallion/web-dev-project)
+  - [Ticketmaster-Inspired Event Ticketing System](https://github.com/CaolanMcCallion/sql-database-project)
+
 
 
 

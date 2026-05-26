@@ -19,7 +19,7 @@ Full-stack Node.js + MySQL web application for managing students, grades, module
 
 **Tech:** Node.js, Express, MySQL, EJS, Bootstrap
 
-### Cloud Editor Kubernetes Project
+### [Cloud Editor Kubernetes Project] (https://github.com/CaolanMcCallion/cloud-editor-kubernetes-project)
 Microservices-based cloud-native text editor using Flask, Docker, monitoring services, and Kubernetes deployment concepts.
 
 **Tech:** Python, Flask, Docker, Kubernetes, Prometheus

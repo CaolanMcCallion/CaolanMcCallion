@@ -19,15 +19,21 @@ Full-stack Node.js + MySQL web application for managing students, grades, module
 
 **Tech:** Node.js, Express, MySQL, EJS, Bootstrap
 
+---
+
 ### [Cloud Editor Kubernetes Project](https://github.com/CaolanMcCallion/cloud-editor-kubernetes-project)
 Microservices-based cloud-native text editor using Flask, Docker, monitoring services, and Kubernetes deployment concepts.
 
 **Tech:** Python, Flask, Docker, Kubernetes, Prometheus
 
+---
+
 ### [World Cup 2026 Travel Planner](https://github.com/CaolanMcCallion/Worldcup-travel-planner)
 Route optimisation system built using React, TypeScript, Express, and Strategy Pattern architecture.
 
 **Tech:** React, TypeScript, Node.js, SQLite
+
+---
 
 ### [Ticketmaster-Inspired Database System](https://github.com/CaolanMcCallion/sql-database-project)
 Normalized relational database simulating a large-scale ticketing platform.
